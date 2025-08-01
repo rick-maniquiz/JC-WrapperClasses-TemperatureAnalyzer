@@ -5,10 +5,10 @@
 ### Outputs:
 
 #### Using same inputs from the example:
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-WrapperClasses-TemperatureAnalyzer/blob/db3d86de36cbf37f52dab6cb9a5f27b97398edf1/screenshots/screenshot1.png"/>
 
 #### Using different inputs from the example:
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-WrapperClasses-TemperatureAnalyzer/blob/db3d86de36cbf37f52dab6cb9a5f27b97398edf1/screenshots/screenshot3.png"/>
 
 #### With invalid input and then same temperature across all days
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-WrapperClasses-TemperatureAnalyzer/blob/db3d86de36cbf37f52dab6cb9a5f27b97398edf1/screenshots/screenshot2.png"/>
