@@ -68,9 +68,8 @@ public class TemperatureAnalyzer {
             day3TempPrimitive = Double.parseDouble(day3TempStr);
         } catch (NumberFormatException e) {
             printCustomErrorMessage();
-            return;
+            return; // Ends the program
         }
-
 
         System.out.println("\n--- Temperature Analysis ---\n");
         printParsedPrimitiveDouble(day1TempPrimitive);
